@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/Evereverk/Testimonial-Grid-Section.git]
+- Live Site URL: [https://testimonials-grid-section-evereverks-projects.vercel.app/]
 
 ## My process
 
